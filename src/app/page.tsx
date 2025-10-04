@@ -10,7 +10,7 @@ export default function Home() {
         </header>
         <Calculator />
         <footer className="mt-8 text-center text-gray-500 text-sm">
-          <p>Use keyboard for input: numbers, operators, Enter, and Escape</p>
+          <p>Use the keyboard for input: numbers, operators, Enter, and Escape</p>
         </footer>
       </div>
     </div>
